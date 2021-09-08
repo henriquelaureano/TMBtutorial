@@ -1,7 +1,5 @@
 # Implementando modelos estatísticos de maneira eficiente com o TMB
 
-![](logo.png)
-
 <img src='logo.png' style='width: 100%;'>
 
 [Henrique A Laureano](https://henriquelaureano.github.io/) |

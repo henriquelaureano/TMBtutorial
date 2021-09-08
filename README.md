@@ -1,5 +1,3 @@
-# Implementando modelos estatísticos de maneira eficiente com o TMB
-
 <img src='logo.png' style='width: 100%;'>
 
 ***

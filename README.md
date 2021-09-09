@@ -8,10 +8,10 @@
 
 ***
 
-- Slides;
+- [Slides](http://leg.ufpr.br/~henrique/TMBtutorial/slides.pdf);
 
-- Exemplo 1;
+- [Exemplo 1](http://leg.ufpr.br/~henrique/TMBtutorial/Example1.html);
 
-- Exemplo 2;
+- [Exemplo 2](http://leg.ufpr.br/~henrique/TMBtutorial/Example2.html);
 
-- Exemplo 3.
+- [Exemplo 3](http://leg.ufpr.br/~henrique/TMBtutorial/Example3.html).
